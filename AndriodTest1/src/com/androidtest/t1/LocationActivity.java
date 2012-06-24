@@ -147,7 +147,7 @@ public class LocationActivity extends Activity
 		mapView.setCenter(new Point(12955992.1875,4827292.96875), 15);
 		mapView.setDraggable(true);
 		mapView.setMapType(MapType.SATELLITE);
-
+		//home update
 	}
 
 }
