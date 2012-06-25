@@ -149,6 +149,7 @@ public class LocationActivity extends Activity
 		mapView.setMapType(MapType.SATELLITE);
 		//home update
 		//com update
+		//update
 	}
 
 }
