@@ -148,7 +148,6 @@ public class LocationActivity extends Activity
 		mapView.setDraggable(true);
 		mapView.setMapType(MapType.SATELLITE);
 		//home update
-		//company
 	}
 
 }
