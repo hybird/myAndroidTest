@@ -151,6 +151,7 @@ public class LocationActivity extends Activity
 		//com update
 		//update
 		//home update
+		//com updat23
 	}
 
 }
